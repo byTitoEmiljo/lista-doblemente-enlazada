@@ -14,7 +14,7 @@ Este proyecto es una implementación de una lista doblemente enlazada en Python,
 3. Navega al directorio del proyecto: \
    `cd lista-doble-enlazada-libros`
 5. Ejecuta el script: \
-   `python main.py`
+   `python listasDoblementeEnlazadas.py`
 
 ### Uso
 1. Al iniciar el programa, se te pedirá que ingreses la cantidad de libros que deseas agregar.
