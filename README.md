@@ -1,4 +1,4 @@
-# **lista-doblemente-enlazada**
+# **Lista Doble Enlazada de Libros**
 
 Este proyecto es una implementación de una lista doblemente enlazada en Python, diseñada para almacenar información sobre libros. Cada nodo de la lista contiene el nombre del libro, el autor y el precio. Se puede navegar por la lista hacia adelante y hacia atrás, mostrando la información de cada libro.
 
